@@ -72,11 +72,6 @@ This dashboard provides a visual and interactive understanding of key business d
 ---
 
 
-## 🖼️ Screenshots
-
-![Page 1](https://github.com/user-attachments/assets/f2e56c0a-41f2-43ba-96c0-8f240c421c4e) | ![Page 2](https://github.com/user-attachments/assets/13394f53-ea1c-48f6-be2c-517ac9e12022)
-
----
 
 ## 🔍 Features Highlighted
 
@@ -100,4 +95,4 @@ This dashboard provides a visual and interactive understanding of key business d
 ## 📬 Contact
 
 - **GitHub:** [mondaytheanalyst](https://github.com/mondaytheanalyst)
-- **Email:** your.email@example.com
+- **Email:** Obotmonday680@gmail.com
